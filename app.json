@@ -1,5 +1,5 @@
 {
-   "name": "QuizBot",
+   "name": "Quiz Arena",
    "description": "hmm no time",
    "repository": "https://github.com/aksr-aashish/QuizBot ",
    "addons": [
@@ -18,11 +18,11 @@
    "env": {
       "API_TOKEN": {
          "description": "id",
-         "value": ""
+         "value": "5620851513:AAGsm0rFSLw_ZR_4dsHL3-KYIWaoFnV07-I"
       },
       "ADMIN_ID": {
          "description": "admin ID Here.",
-         "value": ""
+         "value": "5166575484"
       }
    }
 }
