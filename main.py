@@ -273,7 +273,7 @@ def main():
     updater.start_polling()
     updater.idle()
     logger.info('Bot has been stopped')
-    print("""Hello There Bot started Successfully Credit == @Axel_opp powered by @VexanaFanClub""")
+    print("""Hello There Bot started Successfully Credit == @Quizexe_bot powered by @azure_id""")
 
 if __name__ == "__main__":
     main()
